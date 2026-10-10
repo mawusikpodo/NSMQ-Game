@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Atom Orbit Ring 1 (Rotated) -->
+    <path
+        android:pathData="M 54,30 C 68,30 76,41 76,54 C 76,67 68,78 54,78 C 40,78 32,67 32,54 C 32,41 40,30 54,30 Z"
+        android:strokeColor="#FFFFFF"
+        android:strokeAlpha="0.35"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000" />
+
+    <!-- Atom Orbit Ring 2 (Crossed) -->
+    <path
+        android:pathData="M 33,42 C 43,32 57,32 67,42 C 77,52 77,66 67,76 C 57,86 43,86 33,76 C 23,66 23,52 33,42 Z"
+        android:strokeColor="#06B6D4"
+        android:strokeAlpha="0.55"
+        android:strokeWidth="2.2"
+        android:fillColor="#00000000" />
+
+    <!-- Trophy Handles -->
+    <path
+        android:pathData="M 36,44 C 27,44 26,56 38,59 L 39,55 C 31,53 32,47 38,47 Z"
+        android:fillColor="#F59E0B" />
+    <path
+        android:pathData="M 72,44 C 81,44 82,56 70,59 L 69,55 C 77,53 76,47 70,47 Z"
+        android:fillColor="#F59E0B" />
+
+    <!-- Trophy Cup Body -->
+    <path
+        android:pathData="M 35,38 L 73,38 C 73,38 72,58 54,61 C 36,58 35,38 35,38 Z"
+        android:fillColor="#FBBF24" />
+
+    <!-- Trophy Cup Inner Rim / Depth -->
+    <path
+        android:pathData="M 35,38 C 35,41 43,43 54,43 C 65,43 73,41 73,38 C 73,35 65,33 54,33 C 43,33 35,35 35,38 Z"
+        android:fillColor="#FDE68A" />
+
+    <!-- Trophy Stem -->
+    <path
+        android:pathData="M 50,60 L 58,60 L 57,68 L 51,68 Z"
+        android:fillColor="#D97706" />
+
+    <!-- Trophy Base -->
+    <path
+        android:pathData="M 43,68 L 65,68 L 68,75 L 40,75 Z"
+        android:fillColor="#B45309" />
+    <path
+        android:pathData="M 38,74 L 70,74 L 70,77 L 38,77 Z"
+        android:fillColor="#78350F" />
+
+    <!-- Star / Science Core on Cup -->
+    <path
+        android:pathData="M 54,43 L 55.8,48.2 L 61.2,48.2 L 56.8,51.4 L 58.5,56.5 L 54,53.2 L 49.5,56.5 L 51.2,51.4 L 46.8,48.2 L 52.2,48.2 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Sparkles -->
+    <path
+        android:pathData="M 34,31 L 35,33 L 37,34 L 35,35 L 34,37 L 33,35 L 31,34 L 33,33 Z"
+        android:fillColor="#FDE68A" />
+    <path
+        android:pathData="M 72,27 L 73,29 L 75,30 L 73,31 L 72,33 L 71,31 L 69,30 L 71,29 Z"
+        android:fillColor="#FDE68A" />
+
+</vector>

@@ -1,0 +1,472 @@
+[
+  {
+    "id": "phys_01",
+    "category": "physics",
+    "subject": "Physics",
+    "prompt": "In simple harmonic motion, at what position is the kinetic energy of the oscillating body at its maximum?",
+    "options": ["AT THE MEAN POSITION", "AT MAXIMUM DISPLACEMENT", "AT HALF AMPLITUDE"],
+    "correctOptionIndex": 0,
+    "points": 3,
+    "imageName": "icon_science"
+  },
+  {
+    "id": "phys_02",
+    "category": "physics",
+    "subject": "Physics",
+    "prompt": "What is the SI unit of electric capacitance?",
+    "options": ["HENRY", "FARAD", "WEBER"],
+    "correctOptionIndex": 1,
+    "points": 3,
+    "imageName": "icon_science"
+  },
+  {
+    "id": "phys_03",
+    "category": "physics",
+    "subject": "Physics",
+    "prompt": "A car accelerates uniformly from rest to 20 m/s in 5 seconds. What is the total distance covered?",
+    "options": ["50 M", "100 M", "25 M"],
+    "correctOptionIndex": 0,
+    "points": 3,
+    "imageName": "icon_science"
+  },
+  {
+    "id": "phys_04",
+    "category": "physics",
+    "subject": "Physics",
+    "prompt": "Which optical phenomenon explains the sparkling brilliance of a cut diamond?",
+    "options": ["DIFFRACTION", "TOTAL INTERNAL REFLECTION", "DISPERSION"],
+    "correctOptionIndex": 1,
+    "points": 3,
+    "imageName": "icon_science"
+  },
+  {
+    "id": "phys_05",
+    "category": "physics",
+    "subject": "Physics",
+    "prompt": "What is the de Broglie wavelength associated with an electron of momentum p?",
+    "options": ["h / p", "p / h", "h × p"],
+    "correctOptionIndex": 0,
+    "points": 3,
+    "imageName": "icon_science"
+  },
+  {
+    "id": "phys_06",
+    "category": "physics",
+    "subject": "Physics",
+    "prompt": "Two equal resistors of 6 Ω each are connected in parallel. What is their equivalent resistance?",
+    "options": ["3 Ω", "12 Ω", "1.5 Ω"],
+    "correctOptionIndex": 0,
+    "points": 3,
+    "imageName": "icon_science"
+  },
+  {
+    "id": "phys_07",
+    "category": "physics",
+    "subject": "Physics",
+    "prompt": "A radioactive isotope has a half-life of 4 hours. What fraction of the original sample remains after 12 hours?",
+    "options": ["1/8", "1/4", "1/16"],
+    "correctOptionIndex": 0,
+    "points": 3,
+    "imageName": "icon_science"
+  },
+  {
+    "id": "chem_01",
+    "category": "chemistry",
+    "subject": "Chemistry",
+    "prompt": "What type of hybridization is present in each of the carbon atoms in benzene (C6H6)?",
+    "options": ["SP", "SP2", "SP3"],
+    "correctOptionIndex": 1,
+    "points": 3,
+    "imageName": "icon_science"
+  },
+  {
+    "id": "chem_02",
+    "category": "chemistry",
+    "subject": "Chemistry",
+    "prompt": "Which of the following organic functional groups reduces Tollens' reagent to form a silver mirror?",
+    "options": ["KETONE", "ALDEHYDE", "CARBOXYLIC ACID"],
+    "correctOptionIndex": 1,
+    "points": 3,
+    "imageName": "icon_science"
+  },
+  {
+    "id": "chem_03",
+    "category": "chemistry",
+    "subject": "Chemistry",
+    "prompt": "What is the oxidation state of Chromium in Potassium Dichromate (K2Cr2O7)?",
+    "options": ["+3", "+6", "+7"],
+    "correctOptionIndex": 1,
+    "points": 3,
+    "imageName": "icon_science"
+  },
+  {
+    "id": "chem_04",
+    "category": "chemistry",
+    "subject": "Chemistry",
+    "prompt": "In the extraction of Aluminium by the Hall-Héroult process, what substance is added to molten alumina to lower its melting point?",
+    "options": ["BAUXITE", "CRYOLITE", "HEMATITE"],
+    "correctOptionIndex": 1,
+    "points": 3,
+    "imageName": "icon_science"
+  },
+  {
+    "id": "chem_05",
+    "category": "chemistry",
+    "subject": "Chemistry",
+    "prompt": "What is the geometric molecular shape of methane (CH4) according to VSEPR theory?",
+    "options": ["TETRAHEDRAL", "TRIGONAL PLANAR", "OCTAHEDRAL"],
+    "correctOptionIndex": 0,
+    "points": 3,
+    "imageName": "icon_science"
+  },
+  {
+    "id": "chem_06",
+    "category": "chemistry",
+    "subject": "Chemistry",
+    "prompt": "Which principle states that no two electrons in an atom can have identical values for all four quantum numbers?",
+    "options": ["PAULI EXCLUSION PRINCIPLE", "AUFBAU PRINCIPLE", "HUND'S RULE"],
+    "correctOptionIndex": 0,
+    "points": 3,
+    "imageName": "icon_science"
+  },
+  {
+    "id": "chem_07",
+    "category": "chemistry",
+    "subject": "Chemistry",
+    "prompt": "What gas is vigorously liberated when dilute hydrochloric acid reacts with calcium carbonate?",
+    "options": ["CARBON DIOXIDE", "HYDROGEN", "CHLORINE"],
+    "correctOptionIndex": 0,
+    "points": 3,
+    "imageName": "icon_science"
+  },
+  {
+    "id": "bio_01",
+    "category": "biology",
+    "subject": "Biology",
+    "prompt": "During aerobic cellular respiration, which stage generates the greatest number of ATP molecules?",
+    "options": ["GLYCOLYSIS", "KREBS CYCLE", "OXIDATIVE PHOSPHORYLATION"],
+    "correctOptionIndex": 2,
+    "points": 3,
+    "imageName": "icon_animals"
+  },
+  {
+    "id": "bio_02",
+    "category": "biology",
+    "subject": "Biology",
+    "prompt": "Which plant hormone is primarily responsible for apical dominance and phototropism?",
+    "options": ["AUXIN", "GIBBERELLIN", "ETHYLENE"],
+    "correctOptionIndex": 0,
+    "points": 3,
+    "imageName": "icon_animals"
+  },
+  {
+    "id": "bio_03",
+    "category": "biology",
+    "subject": "Biology",
+    "prompt": "Which blood vessel transports oxygenated blood from the lungs directly into the left atrium?",
+    "options": ["PULMONARY ARTERY", "PULMONARY VEIN", "AORTA"],
+    "correctOptionIndex": 1,
+    "points": 3,
+    "imageName": "icon_animals"
+  },
+  {
+    "id": "bio_04",
+    "category": "biology",
+    "subject": "Biology",
+    "prompt": "What is the phenotypic ratio of offspring from a monohybrid cross between two heterozygous parents for a dominant trait?",
+    "options": ["1:1", "3:1", "9:3:3:1"],
+    "correctOptionIndex": 1,
+    "points": 3,
+    "imageName": "icon_animals"
+  },
+  {
+    "id": "bio_05",
+    "category": "biology",
+    "subject": "Biology",
+    "prompt": "Which sub-nuclear structure is responsible for the assembly and synthesis of ribosomal RNA (rRNA)?",
+    "options": ["NUCLEOLUS", "GOLGI APPARATUS", "LYSOSOME"],
+    "correctOptionIndex": 0,
+    "points": 3,
+    "imageName": "icon_animals"
+  },
+  {
+    "id": "bio_06",
+    "category": "biology",
+    "subject": "Biology",
+    "prompt": "What is the primary structural and functional microscopic filtering unit of the mammalian kidney?",
+    "options": ["NEPHRON", "NEURON", "ALVEOLUS"],
+    "correctOptionIndex": 0,
+    "points": 3,
+    "imageName": "icon_animals"
+  },
+  {
+    "id": "bio_07",
+    "category": "biology",
+    "subject": "Biology",
+    "prompt": "Which fat-soluble vitamin is synthesized in human epidermal cells upon exposure to ultraviolet sunlight?",
+    "options": ["VITAMIN D", "VITAMIN C", "VITAMIN B12"],
+    "correctOptionIndex": 0,
+    "points": 3,
+    "imageName": "icon_animals"
+  },
+  {
+    "id": "math_01",
+    "category": "math",
+    "subject": "Elective Mathematics",
+    "prompt": "What is the first derivative of sin(2x) with respect to x?",
+    "options": ["cos(2x)", "2 cos(2x)", "-2 cos(2x)"],
+    "correctOptionIndex": 1,
+    "points": 3,
+    "imageName": "icon_math"
+  },
+  {
+    "id": "math_02",
+    "category": "math",
+    "subject": "Elective Mathematics",
+    "prompt": "If vectors a = 2i + 3j and b = -3i + kj are perpendicular, find the value of k.",
+    "options": ["-2", "2", "3"],
+    "correctOptionIndex": 1,
+    "points": 3,
+    "imageName": "icon_math"
+  },
+  {
+    "id": "math_03",
+    "category": "math",
+    "subject": "Elective Mathematics",
+    "prompt": "Evaluate the limit as x approaches 0 of sin(x) / x.",
+    "options": ["0", "1", "UNDEFINED"],
+    "correctOptionIndex": 1,
+    "points": 3,
+    "imageName": "icon_math"
+  },
+  {
+    "id": "math_04",
+    "category": "math",
+    "subject": "Elective Mathematics",
+    "prompt": "Find the sum of the roots of the quadratic equation 2x² - 8x + 5 = 0.",
+    "options": ["2.5", "4", "-4"],
+    "correctOptionIndex": 1,
+    "points": 3,
+    "imageName": "icon_math"
+  },
+  {
+    "id": "math_05",
+    "category": "math",
+    "subject": "Elective Mathematics",
+    "prompt": "If log₁₀(x) + log₁₀(5) = 2, find the value of x.",
+    "options": ["20", "10", "50"],
+    "correctOptionIndex": 0,
+    "points": 3,
+    "imageName": "icon_math"
+  },
+  {
+    "id": "math_06",
+    "category": "math",
+    "subject": "Elective Mathematics",
+    "prompt": "What is the distance between points P(1, 2) and Q(4, 6) in the Cartesian plane?",
+    "options": ["5", "7", "25"],
+    "correctOptionIndex": 0,
+    "points": 3,
+    "imageName": "icon_math"
+  },
+  {
+    "id": "math_07",
+    "category": "math",
+    "subject": "Elective Mathematics",
+    "prompt": "Evaluate the definite integral ∫ from 0 to 2 of 3x² dx.",
+    "options": ["8", "12", "6"],
+    "correctOptionIndex": 0,
+    "points": 3,
+    "imageName": "icon_math"
+  },
+  {
+    "id": "pod_01",
+    "category": "problem_of_the_day",
+    "subject": "Round 3: Problem of the Day",
+    "prompt": "A 2.0 kg block is released from rest at the top of a frictionless incline of angle 30° and length 10 m. At the bottom, it slides along a rough horizontal surface with coefficient of friction μ = 0.25 until it stops. Taking g = 9.8 m/s², what is the total horizontal stopping distance?",
+    "options": ["20.0 M", "15.0 M", "10.0 M"],
+    "correctOptionIndex": 0,
+    "points": 10,
+    "imageName": "banner_science"
+  },
+  {
+    "id": "pod_02",
+    "category": "problem_of_the_day",
+    "subject": "Round 3: Problem of the Day",
+    "prompt": "A buffer solution is prepared by mixing 500 mL of 0.20 M ethanoic acid (CH3COOH, Ka = 1.8 × 10⁻⁵) and 500 mL of 0.10 M sodium ethanoate. What is the pH of the resulting buffer? (Take log 1.8 = 0.26, log 2 = 0.30)",
+    "options": ["4.44", "4.74", "5.04"],
+    "correctOptionIndex": 0,
+    "points": 10,
+    "imageName": "banner_science"
+  },
+  {
+    "id": "pod_03",
+    "category": "problem_of_the_day",
+    "subject": "Round 3: Problem of the Day",
+    "prompt": "Find the total area enclosed between the parabola y = 4 - x² and the x-axis (y = 0).",
+    "options": ["32/3 SQ UNITS", "16/3 SQ UNITS", "8 SQ UNITS"],
+    "correctOptionIndex": 0,
+    "points": 10,
+    "imageName": "icon_math"
+  },
+  {
+    "id": "tf_01",
+    "category": "true_false",
+    "subject": "Round 4: True or False",
+    "prompt": "A body moving in a circular path at constant speed experiences zero acceleration.",
+    "options": ["TRUE", "FALSE"],
+    "correctOptionIndex": 1,
+    "points": 2,
+    "imageName": "icon_science"
+  },
+  {
+    "id": "tf_02",
+    "category": "true_false",
+    "subject": "Round 4: True or False",
+    "prompt": "Transition metal compounds exhibit colors primarily due to d-d electronic transitions in split d-orbitals.",
+    "options": ["TRUE", "FALSE"],
+    "correctOptionIndex": 0,
+    "points": 2,
+    "imageName": "icon_science"
+  },
+  {
+    "id": "tf_03",
+    "category": "true_false",
+    "subject": "Round 4: True or False",
+    "prompt": "Mature human erythrocytes lack a nucleus in order to accommodate more haemoglobin molecules.",
+    "options": ["TRUE", "FALSE"],
+    "correctOptionIndex": 0,
+    "points": 2,
+    "imageName": "icon_animals"
+  },
+  {
+    "id": "tf_04",
+    "category": "true_false",
+    "subject": "Round 4: True or False",
+    "prompt": "If the determinant of a square matrix is zero, the matrix is invertible.",
+    "options": ["TRUE", "FALSE"],
+    "correctOptionIndex": 1,
+    "points": 2,
+    "imageName": "icon_math"
+  },
+  {
+    "id": "tf_05",
+    "category": "true_false",
+    "subject": "Round 4: True or False",
+    "prompt": "Mechanical sound waves can easily propagate through a perfect vacuum.",
+    "options": ["TRUE", "FALSE"],
+    "correctOptionIndex": 1,
+    "points": 2,
+    "imageName": "icon_science"
+  },
+  {
+    "id": "tf_06",
+    "category": "true_false",
+    "subject": "Round 4: True or False",
+    "prompt": "Biochemical enzymes speed up reactions without changing the final chemical equilibrium constant.",
+    "options": ["TRUE", "FALSE"],
+    "correctOptionIndex": 0,
+    "points": 2,
+    "imageName": "icon_animals"
+  },
+  {
+    "id": "riddle_01",
+    "category": "riddles",
+    "subject": "NSMQ Riddles (Round 5)",
+    "prompt": "I am the second most abundant element in the Earth's crust by mass. I am a group 14 tetravalent metalloid fundamental to silicon valley semiconductors. Who am I?",
+    "options": ["CARBON", "SILICON", "GERMANIUM"],
+    "correctOptionIndex": 1,
+    "points": 5,
+    "imageName": "banner_science"
+  },
+  {
+    "id": "riddle_02",
+    "category": "riddles",
+    "subject": "NSMQ Riddles (Round 5)",
+    "prompt": "I am a subatomic particle with zero electric charge and rest mass of 1.675×10⁻²⁷ kg. I was discovered by James Chadwick in 1932. Who am I?",
+    "options": ["ELECTRON", "NEUTRON", "NEUTRINO"],
+    "correctOptionIndex": 1,
+    "points": 5,
+    "imageName": "banner_science"
+  },
+  {
+    "id": "riddle_03",
+    "category": "riddles",
+    "subject": "NSMQ Riddles (Round 5)",
+    "prompt": "I contain maternal circular DNA and inner membrane cristae. I am the metabolic powerhouse producing ATP for cellular work. Who am I?",
+    "options": ["NUCLEUS", "MITOCHONDRION", "CHLOROPLAST"],
+    "correctOptionIndex": 1,
+    "points": 5,
+    "imageName": "banner_science"
+  },
+  {
+    "id": "riddle_04",
+    "category": "riddles",
+    "subject": "NSMQ Riddles (Round 5)",
+    "prompt": "I am the only non-metallic element in the periodic table that is liquid at standard room temperature and pressure. I have a reddish-brown color and atomic number 35. Who am I?",
+    "options": ["BROMINE", "MERCURY", "CHLORINE"],
+    "correctOptionIndex": 0,
+    "points": 5,
+    "imageName": "banner_science"
+  },
+  {
+    "id": "riddle_05",
+    "category": "riddles",
+    "subject": "NSMQ Riddles (Round 5)",
+    "prompt": "I am a universal physical constant denoted by c. In Einstein's special relativity, no information or matter with mass can exceed me. Who am I?",
+    "options": ["SPEED OF LIGHT", "PLANCK'S CONSTANT", "AVOGADRO'S NUMBER"],
+    "correctOptionIndex": 0,
+    "points": 5,
+    "imageName": "banner_science"
+  },
+  {
+    "id": "speed_01",
+    "category": "speed_race",
+    "subject": "Speed Race (Round 2)",
+    "prompt": "What is the speed of electromagnetic waves in a vacuum?",
+    "options": ["3.0 × 10⁸ M/S", "3.0 × 10⁶ M/S", "3.0 × 10¹⁰ M/S"],
+    "correctOptionIndex": 0,
+    "points": 3,
+    "imageName": "banner_sports"
+  },
+  {
+    "id": "speed_02",
+    "category": "speed_race",
+    "subject": "Speed Race (Round 2)",
+    "prompt": "What is the pH of a neutral aqueous solution at 25°C?",
+    "options": ["0", "7", "14"],
+    "correctOptionIndex": 1,
+    "points": 3,
+    "imageName": "banner_sports"
+  },
+  {
+    "id": "speed_03",
+    "category": "speed_race",
+    "subject": "Speed Race (Round 2)",
+    "prompt": "Which blood group is known as the universal recipient?",
+    "options": ["O NEGATIVE", "AB POSITIVE", "A POSITIVE"],
+    "correctOptionIndex": 1,
+    "points": 3,
+    "imageName": "banner_sports"
+  },
+  {
+    "id": "speed_04",
+    "category": "speed_race",
+    "subject": "Speed Race (Round 2)",
+    "prompt": "What is the value of 5 factorial (5!)?",
+    "options": ["60", "120", "720"],
+    "correctOptionIndex": 1,
+    "points": 3,
+    "imageName": "banner_sports"
+  },
+  {
+    "id": "speed_05",
+    "category": "speed_race",
+    "subject": "Speed Race (Round 2)",
+    "prompt": "What is the value of the acceleration due to gravity (g) at Earth's surface to one decimal place?",
+    "options": ["9.8 M/S²", "10.5 M/S²", "8.9 M/S²"],
+    "correctOptionIndex": 0,
+    "points": 3,
+    "imageName": "banner_sports"
+  }
+]
